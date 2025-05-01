@@ -1,6 +1,6 @@
 ## 💻✨ Hi there! I'm Lana Mesquita!
 
-**💻 Full-stack Developer | ✨ UX & Accessibility Advocate | 🎓 M.Sc. in Computer Science** 
+**💻 Software Engineer | 📚 Professor | ✨ UX & Accessibility Advocate | 🎓 M.Sc. in Computer Science** 
 <!-- | 💼 Professor at Federal University of Ceará -->
 
 Since 2012, I’ve worked in computing and systems development, with roles as a developer, project manager, and UX designer. As a Professor of web and mobile development, I teach JavaScript, React, and React Native, focusing on accessible, user-centered applications. 
