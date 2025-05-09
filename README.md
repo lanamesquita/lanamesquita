@@ -1,5 +1,7 @@
 ## 💻✨ Hi there! I'm Lana Mesquita!
 
+cursoPython
+
 **💻 Software Engineer | 📚 Professor | ✨ UX & Accessibility Advocate | 🎓 M.Sc. in Computer Science** 
 <!-- | 💼 Professor at Federal University of Ceará -->
 
