@@ -5,7 +5,7 @@
 
 Since 2012, I’ve worked in computing and systems development, with roles as a developer, project manager, and UX designer. As a Professor of web and mobile development, I teach JavaScript, React, and React Native, focusing on accessible, user-centered applications. 
 
-🧠 I believe that excellent software comes from understanding not only the technical requirements but also the human and social aspects behind every interaction.
+🧠 I believe that excellent software comes from understanding not only the technical requirements but also the human and social aspects behind every interaction..
 
 ---
 
