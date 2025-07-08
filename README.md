@@ -7,8 +7,6 @@ Since 2012, I’ve worked in computing and systems development, with roles as a 
 
 🧠 I believe that excellent software comes from understanding not only the technical requirements but also the human and social aspects behind every interaction.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lanamesquita&theme=meta-light)](https://git.io/streak-stats)
-
 ---
 
 ### 🚀 What I'm working on
@@ -33,7 +31,8 @@ Since 2012, I’ve worked in computing and systems development, with roles as a 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=lanamesquita&theme=meta-light)](https://git.io/streak-stats)
+
 
 ### 📫 Let's connect
 
