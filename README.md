@@ -7,6 +7,8 @@ Since 2012, I’ve worked in computing and systems development, with roles as a 
 
 🧠 I believe that excellent software comes from understanding not only the technical requirements but also the human and social aspects behind every interaction.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=lanamesquita&theme=radical)](https://git.io/streak-stats)
+
 ---
 
 ### 🚀 What I'm working on
